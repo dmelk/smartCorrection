@@ -30,7 +30,7 @@ do not read each letter separately, but read each word as a whole.
 
 If we have typo mistakes, then set delta to the 0.3. For example:
 ```
-Tihs os tyopgraphic nistake
+Tihs os ryopgraphic nistake
 ```
 will be transformed to 
 ```
