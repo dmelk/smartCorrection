@@ -1,0 +1,8 @@
+according to the [results, rustles] of the research of one english university,
+it does not matter in which order the letters are ordered in a word.
+it is only important that the first and the last letters be in their places.
+all other letters can be ordered in an arbitrary order, and one can still
+read the text without any problems. it seems to be due to the fact that we
+do not read each letter separately, but read each word as a whole.
+
+this [is, ow, ox] typographic mistake
