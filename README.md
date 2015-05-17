@@ -1,0 +1,2 @@
+# smartCorrection
+Smart words correction
